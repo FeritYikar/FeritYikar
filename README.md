@@ -1,14 +1,11 @@
 <img src="header1.png" width=100%>
-
+<br>
+<br>
+### Hi there 👋
 <br>
 <br>
 
 ## A Data Scientist with a love for continuous learning,  a degree in Business Management and a background in financial analytics, reporting  and data modeling. Skilled at using Tensorflow to change the way companies and individuals solve problems. Passionate about learning new skills and using deep learning models to create advanced solutions, and build models that provide unique and innovative approaches to existing challenges.
-
-<br>
-<br>
-### Hi there 👋
-
 <br>
 <br>
 
